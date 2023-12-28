@@ -24,9 +24,9 @@ data_dir = pathlib.Path(data_dir).with_suffix('')
 ```
 
 #### Milestone 2
-We prepare the images creating a dataset and normalising the images.
+We prepare the images creating a dataset and normalising the images.The data set is split 80% training and 20% validation. splitting the data into batches  of 32 image tensors. 
 
 #### Milestone 3
 
-We build a basic Keras model with an Adam opitimizer and a Sparse Categorical Cross entropy loss function.
+We build a basic Keras model with an Adam opitimizer and a Sparse Categorical Cross entropy loss function. the first model is train for 10 epochs thats 92 trainings of the 32 image tensors.
 
