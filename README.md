@@ -26,3 +26,7 @@ data_dir = pathlib.Path(data_dir).with_suffix('')
 #### Milestone 2
 We prepare the images creating a dataset and normalising the images.
 
+#### Milestone 3
+
+We build a basic Keras model with an Adam opitimizer and a Sparse Categorical Cross entropy loss function.
+
