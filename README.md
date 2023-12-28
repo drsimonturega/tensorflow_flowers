@@ -28,5 +28,9 @@ We prepare the images creating a dataset and normalising the images.The data set
 
 #### Milestone 3
 
-We build a basic Keras model with an Adam opitimizer and a Sparse Categorical Cross entropy loss function. the first model is train for 10 epochs thats 92 trainings of the 32 image tensors.
+We build a basic Keras model with an Adam opitimizer and a Sparse Categorical Cross entropy loss function. the first model is train for 10 epochs thats 92 trainings of the 32 image tensors. This was tested 
+
+![Alt](/snapshot1.png "analysis of first fit")
+
+The analysis of first fit suggested the model had been over fit!'
 
