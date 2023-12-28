@@ -34,6 +34,6 @@ We build a basic Keras model with an Adam opitimizer and a Sparse Categorical Cr
 
 The analysis of first fit suggested the model had been overfit!. to improve the training we used data augmentation and dropout methods to improve the model, the number of epochs was increased to 15. This improves the model.
 
-![Alt](/mod_2.png "analysis of second fit")
+![Alt](/mod2.png "analysis of second fit")
 
 
